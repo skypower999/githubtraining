@@ -1,0 +1,2 @@
+# githubtraining
+my first repository
