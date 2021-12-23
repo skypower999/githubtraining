@@ -2,3 +2,5 @@ this is chat application
 emoji
 colors
 vibrant
+dark mode
+video calls
